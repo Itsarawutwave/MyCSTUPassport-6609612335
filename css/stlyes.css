@@ -12,12 +12,15 @@ header{
     background-color: #000000;
     border:13px solid #ff914d;
     border-radius: 3em;
-    color:#ff914d;
     padding-bottom: 20px;
     margin:auto;
     text-align: center;
     font-size: 25px;
     font-family: Chewy;
+}
+header a{
+    text-decoration: none;
+    color:#ff914d;
 }
 footer{
     width: 100%;
@@ -74,4 +77,19 @@ footer{
     margin-right: 50px;
     color:#ffa7a7;
     text-align: center;
+}
+nav{
+    font-family: Chewy;
+    font-size: 25px;
+    margin-top: 25px;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    border: 7px solid #ffa7a7;
+    color: #ffa7a7;
+    border-radius: 2em;
+    padding:5px 15px;
+    margin-left: 15px;
+    background-color: #000000;
 }
