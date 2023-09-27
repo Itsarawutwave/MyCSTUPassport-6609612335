@@ -96,10 +96,15 @@ nav a{
     margin-left:15px;
     background-color: #000000;
 }
-@media not screen and (min-width:600px) {
+@media not screen and (min-width:800px) {
     .wave-video{
-        margin:0px;
+        padding: 0px;
         display:flex;
+        flex-direction: column;
         align-items: center;
+        padding-top:380px;
+    }
+    footer{
+        margin-top: auto;
     }
 }
