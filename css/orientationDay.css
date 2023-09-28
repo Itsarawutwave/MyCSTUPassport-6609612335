@@ -28,7 +28,7 @@ footer{
     background-color: #ff914d;
     text-align: center;
     padding-top: 1px;
-    margin-top: 200px;
+    margin-top: auto;
     position: absolute;
 }
 nav{
@@ -49,6 +49,9 @@ nav a{
 h2{
     text-align: center;
     margin-top: 70px;
+    font-size: 30px;
+    font-weight: bolder;
+    color:#ff914d;
 }
 .image{
     display: flex;
