@@ -8,12 +8,12 @@ body{
     flex-wrap: wrap;
 }
 header{
-    width:60%;
-    height: 15vh;
+    width: 650px;
+    height: 100px;
     background-color: #000000;
     border:13px solid #ff914d;
     border-radius: 3em;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     margin:auto;
     text-align: center;
     font-size: 25px;
@@ -53,7 +53,6 @@ footer{
     font-size: 20px;
 }
 #about-me mark{
-    padding-left: 5px;
     padding-right: 5px;
     padding-top: 3px;
     background-color:rgb(255, 119, 0)
