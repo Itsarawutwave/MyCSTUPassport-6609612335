@@ -56,5 +56,26 @@ nav{
     nav a{
         margin: 15px;
     }
-    
+    .image-wave{
+        margin:0;
+        margin-left: 50px;
+    }
+    #about-me{
+        margin:0;
+        margin-left: -160px;
+    }
+
+    .wave-video{
+        margin-left: 460px;
+        margin-top: -500px;
+
+    }
+    footer{
+        height: 15vh;
+        background-color: #ff914d;
+        text-align: center;
+        padding-top: 1px;
+        margin-top: 900px;
+        position: absolute;
+    }
 }
