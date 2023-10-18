@@ -18,7 +18,6 @@ header{
     justify-content: center;
     align-items: center;
     display: flex;
-    margin:5px 150px;
 }
 header a{
     text-decoration: none;
